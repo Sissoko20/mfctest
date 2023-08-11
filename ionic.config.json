@@ -1,0 +1,7 @@
+{
+  "name": "mfctest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
